@@ -29,9 +29,9 @@
     최신 state 를 어떻게 반영할지를 명시적으로 관리한다
 
 - 자식 요소에 대한 dom 조작이라면 기존 ref 사용 형태로도 가능할텐데
-  왜 별도의 useImperativeHandler 가 나왔나?
+  왜 별도의 useImperativeHandle 가 나왔나?
   1. 필요한 기능만 공개하기 위해서
-  - useImperativeHandler 를 사용하는 경우 
+  - useImperativeHandle 를 사용하는 경우 
     자식의 내부 구현이 변경되더라도 부모에서 사용하는 형태는 그대로일 수 있도록 만들수 있다 
   
     before
