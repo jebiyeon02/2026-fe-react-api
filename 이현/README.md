@@ -10,5 +10,5 @@
 |  6  | `useInsertionEffect`   | [정리](./useInsertionEffect.md)   |
 |  7  | `useEffectEvent`       | [정리](./useEffectEvent.md)       |
 |  8  | `useOptimistic`        | [정리](./useOptimistic.md)        |
-|  9  | `useActionState`       | [정리](./useActionState.md)       |
-| 10  | `useImperativeHandle`  | [정리](./useImperativeHandle.md)  |
+|  9  | `useImperativeHandle`  | [정리](./useImperativeHandle.md)  |
+| 10  | `useActionState`       | [정리](./useActionState.md)       |
